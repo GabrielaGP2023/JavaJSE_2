@@ -12,6 +12,7 @@ public class ArraysEjemplos {
         for(int i=0;i<arrayuwu.length;i++){
             System.out.println(arrayuwu[i]);
         }
+        //ejemlplo
 
     }
 }
